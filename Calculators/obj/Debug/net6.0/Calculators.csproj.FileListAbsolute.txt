@@ -1,0 +1,13 @@
+/home/wtc/Test_Calculator/Calculators/bin/Debug/net6.0/Calculators.deps.json
+/home/wtc/Test_Calculator/Calculators/bin/Debug/net6.0/Calculators.dll
+/home/wtc/Test_Calculator/Calculators/bin/Debug/net6.0/ref/Calculators.dll
+/home/wtc/Test_Calculator/Calculators/bin/Debug/net6.0/Calculators.pdb
+/home/wtc/Test_Calculator/Calculators/obj/Debug/net6.0/Calculators.csproj.AssemblyReference.cache
+/home/wtc/Test_Calculator/Calculators/obj/Debug/net6.0/Calculators.GeneratedMSBuildEditorConfig.editorconfig
+/home/wtc/Test_Calculator/Calculators/obj/Debug/net6.0/Calculators.AssemblyInfoInputs.cache
+/home/wtc/Test_Calculator/Calculators/obj/Debug/net6.0/Calculators.AssemblyInfo.cs
+/home/wtc/Test_Calculator/Calculators/obj/Debug/net6.0/Calculators.csproj.CoreCompileInputs.cache
+/home/wtc/Test_Calculator/Calculators/obj/Debug/net6.0/Calculators.csproj.Fody.CopyLocal.cache
+/home/wtc/Test_Calculator/Calculators/obj/Debug/net6.0/Calculators.dll
+/home/wtc/Test_Calculator/Calculators/obj/Debug/net6.0/ref/Calculators.dll
+/home/wtc/Test_Calculator/Calculators/obj/Debug/net6.0/Calculators.pdb
