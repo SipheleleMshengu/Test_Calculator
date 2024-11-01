@@ -4,6 +4,11 @@ namespace Exercise3Tests;
 
 [QaVerification.Grading]
 [TestFixture]
+
+/// <summary>
+/// Contains unit tests for various arithmetic operations in the SimpleCalculator class.
+/// Inherits from BaseTest to utilize common setup and teardown functionality.
+/// </summary>
 public class ArithmeticOperationsTests : BaseTest
 {
     [Test]
